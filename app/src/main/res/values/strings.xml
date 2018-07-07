@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">DragAndDropDemo</string>
+
     <string name="verde">verde</string>
     <string name="amarillo">amarillo</string>
     <string name="rojo">rojo</string>
+
+    <string name="correct">Well done!</string>
+    <string name="incorrect">Try again!</string>
 </resources>
